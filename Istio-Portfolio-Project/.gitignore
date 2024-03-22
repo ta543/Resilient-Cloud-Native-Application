@@ -1,0 +1,17 @@
+# Compiled Go binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Binary files
+*.bin
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Output of the code coverage report
+coverage.txt
+
+# Dependency directories
+vendor/
